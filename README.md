@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/developer-rushi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/rushikesh03" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rushikesh03" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/rushikesh03" height="30" width="40" /></a>
 <a href="https://instagram.com/me.rushikesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="me.rushikesh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rushishinde0308" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" alt="rushishinde0308" height="30" width="40" /></a>
 </p>
